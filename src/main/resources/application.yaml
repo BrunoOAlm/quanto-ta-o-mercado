@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: quanto-ta-o-mercado
+
+server:
+  port: 8081
